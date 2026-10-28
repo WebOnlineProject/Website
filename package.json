@@ -8,6 +8,7 @@
   "dependencies": {
     "@remotion/cli": "4.0.535",
     "@remotion/zod-types": "4.0.535",
+    "motion": "^14.7.1",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "remotion": "4.0.535",
